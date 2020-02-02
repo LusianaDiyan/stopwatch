@@ -1,0 +1,46 @@
+V3 29
+FL "/home/ekky/Desktop/data_kuliah/Mata Kuliah/Rangkaian Logika/vhdl-stopwatch-master/binBCD14.vhd" 2018/06/18.01:12:59 P.20131013
+EN work/binBCD14 1558057178 \
+      FL "/home/ekky/Desktop/data_kuliah/Mata Kuliah/Rangkaian Logika/vhdl-stopwatch-master/binBCD14.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/binBCD14/Behavioral 1558057179 \
+      FL "/home/ekky/Desktop/data_kuliah/Mata Kuliah/Rangkaian Logika/vhdl-stopwatch-master/binBCD14.vhd" \
+      EN work/binBCD14 1558057178
+FL "/home/ekky/Desktop/data_kuliah/Mata Kuliah/Rangkaian Logika/vhdl-stopwatch-master/clkdiv.vhd" 2018/06/18.01:12:59 P.20131013
+EN work/clkdiv 1558057174 \
+      FL "/home/ekky/Desktop/data_kuliah/Mata Kuliah/Rangkaian Logika/vhdl-stopwatch-master/clkdiv.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/clkdiv/Behavioral 1558057175 \
+      FL "/home/ekky/Desktop/data_kuliah/Mata Kuliah/Rangkaian Logika/vhdl-stopwatch-master/clkdiv.vhd" \
+      EN work/clkdiv 1558057174
+FL "/home/ekky/Desktop/data_kuliah/Mata Kuliah/Rangkaian Logika/vhdl-stopwatch-master/counter_top.vhd" 2018/06/18.01:12:59 P.20131013
+EN work/counter_top 1558057182 \
+      FL "/home/ekky/Desktop/data_kuliah/Mata Kuliah/Rangkaian Logika/vhdl-stopwatch-master/counter_top.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/counter_top/Behavioral 1558057183 \
+      FL "/home/ekky/Desktop/data_kuliah/Mata Kuliah/Rangkaian Logika/vhdl-stopwatch-master/counter_top.vhd" \
+      EN work/counter_top 1558057182 CP clkdiv CP mod10kcnt CP binbcd14 CP x7segbc
+FL "/home/ekky/Desktop/data_kuliah/Mata Kuliah/Rangkaian Logika/vhdl-stopwatch-master/mod10Kcnt.vhd" 2018/06/18.01:12:59 P.20131013
+EN work/mod10kcnt 1558057176 \
+      FL "/home/ekky/Desktop/data_kuliah/Mata Kuliah/Rangkaian Logika/vhdl-stopwatch-master/mod10Kcnt.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/mod10kcnt/Behavioral 1558057177 \
+      FL "/home/ekky/Desktop/data_kuliah/Mata Kuliah/Rangkaian Logika/vhdl-stopwatch-master/mod10Kcnt.vhd" \
+      EN work/mod10kcnt 1558057176
+FL "/home/ekky/Desktop/data_kuliah/Mata Kuliah/Rangkaian Logika/vhdl-stopwatch-master/x7segbc.vhd" 2018/06/18.01:12:59 P.20131013
+EN work/x7segbc 1558057180 \
+      FL "/home/ekky/Desktop/data_kuliah/Mata Kuliah/Rangkaian Logika/vhdl-stopwatch-master/x7segbc.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/x7segbc/Behavioral 1558057181 \
+      FL "/home/ekky/Desktop/data_kuliah/Mata Kuliah/Rangkaian Logika/vhdl-stopwatch-master/x7segbc.vhd" \
+      EN work/x7segbc 1558057180
+FL "D:/Data/MODUL MATA KULIAH/SEMESTER 2/RL2 - Pak Nando/Tugas Praktikum/P8 - Counter/binBCD14.vhd" 2018/05/28.11:30:39 P.20131013
+FL "D:/Data/MODUL MATA KULIAH/SEMESTER 2/RL2 - Pak Nando/Tugas Praktikum/P8 - Counter/clkdiv.vhd" 2018/05/28.11:24:21 P.20131013
+FL "D:/Data/MODUL MATA KULIAH/SEMESTER 2/RL2 - Pak Nando/Tugas Praktikum/P8 - Counter/counter_top.vhd" 2018/05/30.16:34:22 P.20131013
+FL "D:/Data/MODUL MATA KULIAH/SEMESTER 2/RL2 - Pak Nando/Tugas Praktikum/P8 - Counter/mod10Kcnt.vhd" 2018/05/30.16:34:47 P.20131013
+FL "D:/Data/MODUL MATA KULIAH/SEMESTER 2/RL2 - Pak Nando/Tugas Praktikum/P8 - Counter/x7segbc.vhd" 2018/05/28.11:33:56 P.20131013
+FL "D:/temp/xilinx/P8 - Counter/binBCD14.vhd" 2018/05/28.11:30:40 P.20131013
+FL "D:/temp/xilinx/P8 - Counter/clkdiv.vhd" 2018/05/28.11:24:22 P.20131013
+FL "D:/temp/xilinx/P8 - Counter/counter_top.vhd" 2018/06/04.09:38:24 P.20131013
+FL "D:/temp/xilinx/P8 - Counter/mod10Kcnt.vhd" 2018/06/04.10:01:05 P.20131013
+FL "D:/temp/xilinx/P8 - Counter/x7segbc.vhd" 2018/05/28.11:33:58 P.20131013

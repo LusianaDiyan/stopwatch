@@ -1,0 +1,10 @@
+AR binbcd14 behavioral "/home/ekky/Desktop/data_kuliah/Mata Kuliah/Rangkaian Logika/vhdl-stopwatch-master/binBCD14.vhd" sub00/vhpl05 1558057179
+AR mod10kcnt behavioral "/home/ekky/Desktop/data_kuliah/Mata Kuliah/Rangkaian Logika/vhdl-stopwatch-master/mod10Kcnt.vhd" sub00/vhpl03 1558057177
+AR clkdiv behavioral "/home/ekky/Desktop/data_kuliah/Mata Kuliah/Rangkaian Logika/vhdl-stopwatch-master/clkdiv.vhd" sub00/vhpl01 1558057175
+EN clkdiv NULL "/home/ekky/Desktop/data_kuliah/Mata Kuliah/Rangkaian Logika/vhdl-stopwatch-master/clkdiv.vhd" sub00/vhpl00 1558057174
+EN mod10kcnt NULL "/home/ekky/Desktop/data_kuliah/Mata Kuliah/Rangkaian Logika/vhdl-stopwatch-master/mod10Kcnt.vhd" sub00/vhpl02 1558057176
+AR counter_top behavioral "/home/ekky/Desktop/data_kuliah/Mata Kuliah/Rangkaian Logika/vhdl-stopwatch-master/counter_top.vhd" sub00/vhpl09 1558057183
+EN binbcd14 NULL "/home/ekky/Desktop/data_kuliah/Mata Kuliah/Rangkaian Logika/vhdl-stopwatch-master/binBCD14.vhd" sub00/vhpl04 1558057178
+AR x7segbc behavioral "/home/ekky/Desktop/data_kuliah/Mata Kuliah/Rangkaian Logika/vhdl-stopwatch-master/x7segbc.vhd" sub00/vhpl07 1558057181
+EN x7segbc NULL "/home/ekky/Desktop/data_kuliah/Mata Kuliah/Rangkaian Logika/vhdl-stopwatch-master/x7segbc.vhd" sub00/vhpl06 1558057180
+EN counter_top NULL "/home/ekky/Desktop/data_kuliah/Mata Kuliah/Rangkaian Logika/vhdl-stopwatch-master/counter_top.vhd" sub00/vhpl08 1558057182

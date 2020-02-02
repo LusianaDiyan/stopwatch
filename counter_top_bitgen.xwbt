@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=D:\PENS\vhdl-stopwatch-master\counter_top.ncd
+OUTFILE=D:\PENS\vhdl-stopwatch-master\counter_top.bit
+FAMILY=Spartan3
+PART=xc3s200-4ft256
+WORKINGDIR=D:\PENS\vhdl-stopwatch-master
+LICENSE=WebPack
+USER_INFO=211689637_0_0_812
